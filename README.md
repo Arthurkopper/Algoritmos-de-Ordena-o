@@ -1,2 +1,2 @@
-# Algoritmos-de-Ordena-o
+# Algoritmos-de-Ordenacao
 Selection sort, Bogo sort, Radix sort.
