@@ -17,7 +17,7 @@ int main(void){
     clock_t time;
     vet1 = calloc(tamanho, sizeof(int));
     
-    aleatorio(vet1, -1000, 1000, tamanho); // Responsável por criar um vetor aleatorio;
+    aleatorio(vet1, -1000, 1000, tamanho); //Responsável por criar um vetor aleatorio;
     time = clock();
     selectionSort(vet1, tamanho); //chamada do primeiro algoritmo de ordenaçao;
     time = clock() - time;
